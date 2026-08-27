@@ -1,40 +1,38 @@
-# Boyue · 博约开发法
+# Boyue Method
 
 > **AI makes it easier to build the wrong thing faster.**
 
-Boyue is a lightweight **AI development governance skill** for software teams and coding agents.
+Boyue is a lightweight **AI development governance method and Agent Skill** for software teams and coding agents.
 
-It helps agents explore broadly, commit selectively, validate expensive decisions, deliver coherent small changes, and retire complexity that no longer earns its maintenance cost.
+It helps teams explore broadly, commit selectively, validate expensive decisions, deliver coherent small changes, and retire complexity that no longer earns its maintenance cost.
 
-[![Boyue · 博约开发法 — from broad exploration to selective ownership](assets/boyue-cover.webp)](https://www.wuaishare.cn/12793.html)
+[![Boyue Method — AI software development method](assets/boyue-cover-en.webp)](paper/boyue-methodology.md)
 
-*The illustrated reading edition on Wuaishare explains the method visually; click the image to read it.*
+*Click the cover to read the full English methodology paper.*
 
-**中文文档：** [README.zh-CN.md](README.zh-CN.md) · **Skill 中文阅读版：** [docs/SKILL.zh-CN.md](docs/SKILL.zh-CN.md)
+**Language:** [Simplified Chinese](README.zh-CN.md)
 
 ## Project resources
 
-Boyue is maintained as both a **methodology paper** and an **installable Agent Skill**:
+The English project path is intentionally focused on English-language resources:
 
-- **Paper (English):** [From Implementation Scarcity to Implementation Abundance](paper/boyue-methodology.md)
-- **论文（中文）：** [从实现稀缺到实现丰裕：AI 软件工程中的决策边界与复杂度治理](paper/boyue-methodology.zh-CN.md)
-- **Installable Skill (canonical execution source):** [SKILL.md](SKILL.md)
-- **Skill 中文阅读版：** [docs/SKILL.zh-CN.md](docs/SKILL.zh-CN.md)
-- **Visual reading edition:** [博约开发法：AI 编程时代的软件项目开发方法](https://www.wuaishare.cn/12793.html)
+- **Full methodology paper:** [From Implementation Scarcity to Implementation Abundance](paper/boyue-methodology.md)
+- **Installable Agent Skill (canonical execution source):** [SKILL.md](SKILL.md)
+- **Methodology references:** [references/](references/)
+- **Practical templates:** [templates/](templates/)
+- **Usage examples:** [examples/](examples/)
 
-The GitHub repository is the canonical home for the full paper, Skill, templates, and examples. The Wuaishare article is the illustrated reading edition optimized for web reading and comprehension.
+The GitHub repository is the canonical home for the methodology paper, Agent Skill, templates, references, and examples.
 
 ## The idea in one sentence
 
 > **Explore broadly. Prototype freely. Commit carefully. Own selectively.**
 
-Boyue is inspired by Su Shi’s phrase:
-
-> **博观而约取，厚积而薄发。**
+The name “Boyue” comes from a classical principle commonly rendered as: **study broadly, take selectively; accumulate deeply, release with restraint.**
 
 In software-development terms:
 
-> **博观管理可能性，约取管理承诺；厚积管理不确定性，薄发管理复杂度。**
+> **Manage possibilities broadly, commitments selectively, uncertainty with evidence, and complexity with restraint.**
 
 ## Why Boyue exists
 
@@ -84,10 +82,10 @@ Boyue is not a waterfall process. A real project may use multiple modes at the s
 
 | Mode | Purpose | Typical practices |
 |---|---|---|
-| **Explore / 博观** | Expand the option space and reduce blind spots | user research, competitor research, Option Map, AI Spike |
-| **Select / 约取** | Prevent options from becoming accidental commitments | PRFAQ, Non-goals, Commit / Defer / Discard |
-| **Shape / 厚积** | Reduce uncertainty according to the cost of being wrong | PoC, prototype, ADR, benchmark, rehearsal |
-| **Deliver / 薄发** | Ship the smallest coherent change worth owning | MCVS, Vertical Slice, Walking Skeleton |
+| **Explore** | Expand the option space and reduce blind spots | user research, competitor research, Option Map, AI Spike |
+| **Select** | Prevent options from becoming accidental commitments | PRFAQ, Non-goals, Commit / Defer / Discard |
+| **Shape** | Reduce uncertainty according to the cost of being wrong | PoC, prototype, ADR, benchmark, rehearsal |
+| **Deliver** | Ship the smallest coherent change worth owning | MCVS, Vertical Slice, Walking Skeleton |
 | **Evidence / Retirement** | Decide whether existing complexity still deserves ownership | usage evidence, simplification, Retirement Review |
 
 ## The five rules
@@ -228,16 +226,15 @@ It should **not** turn a CSS change into a product committee meeting. Governance
 
 ## Methodology origin and attribution
 
-The Boyue methodology was originally developed and published by **吾爱分享网**.
+The Boyue methodology was originally developed and published by **Wuaishare**.
 
-Canonical resources:
+Canonical English resources:
 
-- [Full methodology paper — English](paper/boyue-methodology.md)
-- [完整方法论论文 — 中文](paper/boyue-methodology.zh-CN.md)
-- [Illustrated web article / 图文阅读版](https://www.wuaishare.cn/12793.html)
+- [Full methodology paper](paper/boyue-methodology.md)
 - [Installable Agent Skill](SKILL.md)
+- [Original illustrated article on Wuaishare (Chinese)](https://www.wuaishare.cn/12793.html)
 
-When redistributing or adapting the methodology text, please retain attribution to **吾爱分享网** and the original article link.
+When redistributing or adapting the methodology text, please retain attribution to **Wuaishare** and the original article link.
 
 Boyue builds on and references existing software and product practices such as Double Diamond, Set-Based Design, Shape Up, YAGNI, Working Backwards, Spike / PoC, Walking Skeleton, Tracer Bullet, and Vertical Slice. This project does not claim to have invented those practices.
 

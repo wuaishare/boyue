@@ -2,6 +2,20 @@
 
 All notable changes to Boyue are documented here.
 
+## v0.2.2 — 2026-08-27
+
+### Added
+
+- Dedicated English project cover at `assets/boyue-cover-en.webp`.
+- Explicitly named Simplified Chinese cover at `assets/boyue-cover-zh-CN.webp`.
+
+### Changed
+
+- English README now uses the English cover and keeps navigation focused on English-language resources.
+- Simplified Chinese README now keeps navigation focused on Chinese-language resources, with a single language switch to the English README.
+- Removed mixed-language paper and Skill navigation from the default English README to reduce reading interruption.
+- Skill package version bumped to `0.2.2`.
+
 ## v0.2.1 — 2026-08-27
 
 ### Added
