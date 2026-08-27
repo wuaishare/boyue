@@ -13,9 +13,10 @@ For a more visual, blog-style reading experience with illustrations and web typo
 
 ## Installable Skill
 
-The executable Agent Skill lives at the repository root:
+The executable Agent Skill lives at the repository root, with an official Chinese reading edition for review and learning:
 
-- [SKILL.md](../SKILL.md)
+- [SKILL.md](../SKILL.md) — canonical execution source
+- [Skill 中文阅读版](../docs/SKILL.zh-CN.md) — official Chinese reading edition
 
 The paper explains **why** the framework exists; the Skill turns the framework into **runtime development behavior** for compatible coding agents.
 

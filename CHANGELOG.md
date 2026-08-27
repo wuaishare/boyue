@@ -2,6 +2,19 @@
 
 All notable changes to Boyue are documented here.
 
+## v0.2.1 — 2026-08-27
+
+### Added
+
+- Official Chinese reading edition of the Skill at `docs/SKILL.zh-CN.md`, while keeping root `SKILL.md` as the single canonical execution source.
+- Repository-owned project cover image at `assets/boyue-cover.webp`, reused from the Wuaishare illustrated article.
+
+### Changed
+
+- Root Skill metadata now includes concise Chinese trigger semantics and version `0.2.1`.
+- English and Chinese READMEs now show the project cover near the top and link the image back to the illustrated article.
+- Project resource navigation now links both the canonical Skill and the Chinese reading edition.
+
 ## v0.2.0 — 2026-08-27
 
 ### Added

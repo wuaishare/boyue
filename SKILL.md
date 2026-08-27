@@ -1,7 +1,7 @@
 ---
 name: boyue
-description: "Decision and complexity governance for AI-assisted software development. This skill should be used when planning new products or features, evaluating scope expansion, making hard-to-reverse architecture decisions, validating uncertain AI capabilities, deciding whether experimental code belongs in production, or reviewing mature systems for simplification and retirement. It should not slow down low-risk reversible edits."
-version: 0.2.0
+description: "Decision and complexity governance for AI-assisted software development / 面向 AI 编程的软件项目决策与复杂度治理。Use when planning products or features, evaluating scope expansion, making hard-to-reverse decisions, validating uncertain AI capabilities, deciding whether experimental code belongs in production, or reviewing mature systems for simplification and retirement. Do not slow down low-risk reversible edits."
+version: 0.2.1
 ---
 
 # Boyue · 博约开发法

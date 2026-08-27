@@ -6,7 +6,11 @@ Boyue is a lightweight **AI development governance skill** for software teams an
 
 It helps agents explore broadly, commit selectively, validate expensive decisions, deliver coherent small changes, and retire complexity that no longer earns its maintenance cost.
 
-**中文文档：** [README.zh-CN.md](README.zh-CN.md)
+[![Boyue · 博约开发法 — from broad exploration to selective ownership](assets/boyue-cover.webp)](https://www.wuaishare.cn/12793.html)
+
+*The illustrated reading edition on Wuaishare explains the method visually; click the image to read it.*
+
+**中文文档：** [README.zh-CN.md](README.zh-CN.md) · **Skill 中文阅读版：** [docs/SKILL.zh-CN.md](docs/SKILL.zh-CN.md)
 
 ## Project resources
 
@@ -14,7 +18,8 @@ Boyue is maintained as both a **methodology paper** and an **installable Agent S
 
 - **Paper (English):** [From Implementation Scarcity to Implementation Abundance](paper/boyue-methodology.md)
 - **论文（中文）：** [从实现稀缺到实现丰裕：AI 软件工程中的决策边界与复杂度治理](paper/boyue-methodology.zh-CN.md)
-- **Installable Skill:** [SKILL.md](SKILL.md)
+- **Installable Skill (canonical execution source):** [SKILL.md](SKILL.md)
+- **Skill 中文阅读版：** [docs/SKILL.zh-CN.md](docs/SKILL.zh-CN.md)
 - **Visual reading edition:** [博约开发法：AI 编程时代的软件项目开发方法](https://www.wuaishare.cn/12793.html)
 
 The GitHub repository is the canonical home for the full paper, Skill, templates, and examples. The Wuaishare article is the illustrated reading edition optimized for web reading and comprehension.
