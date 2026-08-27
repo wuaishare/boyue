@@ -1,3 +1,5 @@
+English | [简体中文](README.zh-CN.md)
+
 # Boyue Method
 
 > **AI makes it easier to build the wrong thing faster.**
@@ -9,8 +11,6 @@ It helps teams explore broadly, commit selectively, validate expensive decisions
 [![Boyue Method — AI software development method](assets/boyue-cover-en.webp)](paper/boyue-methodology.md)
 
 *Click the cover to read the full English methodology paper.*
-
-**Language:** [Simplified Chinese](README.zh-CN.md)
 
 ## Project resources
 

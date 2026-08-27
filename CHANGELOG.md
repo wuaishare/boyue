@@ -2,6 +2,16 @@
 
 All notable changes to Boyue are documented here.
 
+## v0.2.3 — 2026-08-27
+
+### Changed
+
+- Replaced the English README cover with a language-matched version that preserves the same composition and visual system as the Chinese cover.
+- Standardized README language navigation to the conventional horizontal form: `English | 简体中文`.
+- Split the paper index into dedicated English and Simplified Chinese pages instead of mixing both languages in one navigation page.
+- Added matching language switches to the English and Chinese methodology papers.
+- Skill package version bumped to `0.2.3`.
+
 ## v0.2.2 — 2026-08-27
 
 ### Added

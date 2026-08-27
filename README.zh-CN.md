@@ -1,3 +1,5 @@
+[English](README.md) | 简体中文
+
 # 博约开发法 · Boyue
 
 > **AI 可以让错误的东西更快被做出来。**
@@ -9,8 +11,6 @@
 [![博约开发法：从广泛探索到谨慎拥有](assets/boyue-cover-zh-CN.webp)](https://www.wuaishare.cn/12793.html)
 
 *点击主图可前往吾爱分享网图文阅读版，通过配图与博客排版更直观地理解方法论。*
-
-**其他语言：** [English version](README.md)
 
 ## 项目资源
 

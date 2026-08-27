@@ -1,14 +1,15 @@
+English | [简体中文](boyue-methodology.zh-CN.md)
+
 # From Implementation Scarcity to Implementation Abundance
 
 ## Decision Boundaries and Complexity Governance for AI-Assisted Software Engineering
 
 ### A Conceptual Framework for the Boyue Method
 
-**Author / Publisher:** Wuaishare (吾爱分享网)  
-**Project:** Boyue · 博约开发法  
-**Original methodology article:** https://www.wuaishare.cn/12793.html  
-**GitHub:** https://github.com/wuaishare/boyue  
-**Document type:** Conceptual Working Paper
+- **Author / Publisher:** Wuaishare
+- **Project:** Boyue Method
+- **GitHub:** https://github.com/wuaishare/boyue
+- **Document type:** Conceptual Working Paper
 
 > **博观而约取，厚积而薄发。**  
 > Broadly observe and selectively take; accumulate deeply and release with restraint.  
