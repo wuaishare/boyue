@@ -8,6 +8,17 @@
 
 **English:** [README.md](README.md)
 
+## 项目资源
+
+Boyue 同时维护为一套**完整方法论论文**和一个**可安装的 Agent Skill**：
+
+- **中文完整版论文：** [从实现稀缺到实现丰裕：AI 软件工程中的决策边界与复杂度治理](paper/boyue-methodology.zh-CN.md)
+- **English full paper:** [From Implementation Scarcity to Implementation Abundance](paper/boyue-methodology.md)
+- **可安装 Skill：** [SKILL.md](SKILL.md)
+- **图文阅读版：** [吾爱分享网《博约开发法：AI 编程时代的软件项目开发方法》](https://www.wuaishare.cn/12793.html)
+
+GitHub 仓库作为完整论文、Skill、模板和案例的长期主仓；吾爱分享网文章则通过配图与博客排版提供更适合普通读者阅读理解的图文版本。两者保持双向链接。
+
 ## 一句话理解
 
 > **大胆探索，大量试验，谨慎承诺，克制拥有。**
@@ -271,9 +282,12 @@ Boyue 必须保持轻量。
 
 “博约开发法”方法论由 **吾爱分享网** 原创提出并持续完善。
 
-原始文章：
+完整资源：
 
-- [博约开发法：AI 编程时代的软件项目开发方法](https://www.wuaishare.cn/12793.html)
+- [中文完整方法论论文](paper/boyue-methodology.zh-CN.md)
+- [English full paper](paper/boyue-methodology.md)
+- [吾爱分享网图文阅读版](https://www.wuaishare.cn/12793.html)
+- [可安装 Agent Skill](SKILL.md)
 
 转载、引用或改编该方法论文字时，请保留 **吾爱分享网** 与原文链接作为出处。
 

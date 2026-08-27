@@ -8,6 +8,17 @@ It helps agents explore broadly, commit selectively, validate expensive decision
 
 **中文文档：** [README.zh-CN.md](README.zh-CN.md)
 
+## Project resources
+
+Boyue is maintained as both a **methodology paper** and an **installable Agent Skill**:
+
+- **Paper (English):** [From Implementation Scarcity to Implementation Abundance](paper/boyue-methodology.md)
+- **论文（中文）：** [从实现稀缺到实现丰裕：AI 软件工程中的决策边界与复杂度治理](paper/boyue-methodology.zh-CN.md)
+- **Installable Skill:** [SKILL.md](SKILL.md)
+- **Visual reading edition:** [博约开发法：AI 编程时代的软件项目开发方法](https://www.wuaishare.cn/12793.html)
+
+The GitHub repository is the canonical home for the full paper, Skill, templates, and examples. The Wuaishare article is the illustrated reading edition optimized for web reading and comprehension.
+
 ## The idea in one sentence
 
 > **Explore broadly. Prototype freely. Commit carefully. Own selectively.**
@@ -214,9 +225,12 @@ It should **not** turn a CSS change into a product committee meeting. Governance
 
 The Boyue methodology was originally developed and published by **吾爱分享网**.
 
-Original article:
+Canonical resources:
 
-- [博约开发法：AI 编程时代的软件项目开发方法](https://www.wuaishare.cn/12793.html)
+- [Full methodology paper — English](paper/boyue-methodology.md)
+- [完整方法论论文 — 中文](paper/boyue-methodology.zh-CN.md)
+- [Illustrated web article / 图文阅读版](https://www.wuaishare.cn/12793.html)
+- [Installable Agent Skill](SKILL.md)
 
 When redistributing or adapting the methodology text, please retain attribution to **吾爱分享网** and the original article link.
 
