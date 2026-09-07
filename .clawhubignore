@@ -1,0 +1,10 @@
+# ClawHub publishes the portable methodology Skill layer only.
+# Long-form papers, examples, covers, and repository docs stay canonical on GitHub.
+*
+!SKILL.md
+!references/
+references/*
+!references/*.md
+!templates/
+templates/*
+!templates/*.md
