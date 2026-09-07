@@ -19,7 +19,7 @@ This document is the repository-level source of truth for Agent Skill distributi
 | AgentSkill.sh | Registry import/sync | Imported from the canonical `SKILL.md`; security score 100/100. GitHub owner-level re-import/claim remains blocked by the registry's GitHub API rate limit |
 | skills.re | GitHub import | Submitted and publicly indexed under Wuaishare; registry-generated categorization/evaluation may continue asynchronously |
 | Skillstore | GitHub URL + audit PR | Submitted as `8f3ad21f-9dac-4034-9653-052ca42687fa`; automated audit marked it **safe** and opened review PR #3322 |
-| Smithery Skills | Git-backed/API listing | Ready for listing; Smithery account/namespace authorization is still required |
+| Smithery Skills | Git-backed/API listing | Smithery OAuth is complete and namespace access is available; final create/update API publish is pending |
 | ClawHub | Registry publish | **Published:** https://clawhub.ai/wuaishare/boyue — initial web import is MIT-0. A corrected `0.2.3` thin bundle is prepared; `.clawhubignore` limits future releases to the canonical Skill, references, and templates |
 | AI智库 | First-party catalog | **Published:** https://ai.wuaishare.cn/hub/boyue/ — richer GitHub/i18n/security enrichment is tracked as a catalog pipeline improvement |
 
