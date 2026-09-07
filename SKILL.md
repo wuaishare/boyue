@@ -1,7 +1,11 @@
 ---
 name: boyue
 description: "Decision and complexity governance for AI-assisted software development / 面向 AI 编程的软件项目决策与复杂度治理。Use when planning products or features, evaluating scope expansion, making hard-to-reverse decisions, validating uncertain AI capabilities, deciding whether experimental code belongs in production, or reviewing mature systems for simplification and retirement. Do not slow down low-risk reversible edits."
-version: 0.2.3
+license: MIT
+compatibility: Works in Agent Skills-compatible hosts; no external runtime is required for the core methodology.
+metadata:
+  author: wuaishare
+  version: "0.2.3"
 ---
 
 # Boyue · 博约开发法
