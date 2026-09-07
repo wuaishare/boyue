@@ -228,6 +228,14 @@ Agent 又提出：
 
 Boyue 按 Agent Skills 结构组织，仓库根目录包含 `SKILL.md`，其余资料通过相对路径按需加载。
 
+兼容 Agent Skills 的 CLI 安装器可以直接安装仓库：
+
+```bash
+npx skills add wuaishare/boyue
+```
+
+各技能市场的同步状态与许可证边界统一记录在 [DISTRIBUTION.md](DISTRIBUTION.md)。
+
 OpenAI 官方说明目前 Skills 遵循 Agent Skills 开放标准，并支持 ChatGPT、Codex 与 API；不同宿主产品的安装和工作空间管理方式会有所不同。
 
 ### ChatGPT

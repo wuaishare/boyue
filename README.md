@@ -174,6 +174,14 @@ See [AI Capability Spike](examples/ai-spike.md).
 
 Boyue is packaged as an Agent Skill with a root `SKILL.md` and supporting Markdown resources.
 
+For Agent Skills-compatible CLI installers, the repository can be installed directly:
+
+```bash
+npx skills add wuaishare/boyue
+```
+
+See [DISTRIBUTION.md](DISTRIBUTION.md) for marketplace/registry status and licensing boundaries.
+
 OpenAI Skills follow the Agent Skills open standard, and Skills are supported across ChatGPT, Codex, and the API, although installation and workspace management differ by host product.
 
 ### ChatGPT
