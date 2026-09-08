@@ -21,6 +21,7 @@ Boyue 同时维护为一套**完整方法论论文**和一个**可安装的 Agen
 - **Skill 中文阅读版：** [docs/SKILL.zh-CN.md](docs/SKILL.zh-CN.md)
 - **实践模板：** [templates/](templates/)
 - **使用案例：** [examples/](examples/)
+- **维护者 Git / Worktree 治理：** [docs/engineering/git-worktree-governance.md](docs/engineering/git-worktree-governance.md)
 - **图文阅读版：** [吾爱分享网《博约开发法：AI 编程时代的软件项目开发方法》](https://www.wuaishare.cn/12793.html)
 
 GitHub 仓库作为完整论文、Skill、模板和案例的长期主仓；吾爱分享网文章则通过配图与博客排版提供更适合普通读者阅读理解的图文版本。两者保持双向链接。

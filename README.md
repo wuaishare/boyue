@@ -21,6 +21,7 @@ The English project path is intentionally focused on English-language resources:
 - **Methodology references:** [references/](references/)
 - **Practical templates:** [templates/](templates/)
 - **Usage examples:** [examples/](examples/)
+- **Maintainer Git / worktree governance:** [docs/engineering/git-worktree-governance.md](docs/engineering/git-worktree-governance.md)
 
 The GitHub repository is the canonical home for the methodology paper, Agent Skill, templates, references, and examples.
 
