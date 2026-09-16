@@ -60,6 +60,23 @@
 
 博约开发法不应该把一个 CSS 小改动变成产品委员会。
 
+## 证据与正典分离：Evidence-to-Canon Funnel
+
+当调研、会话或长期探索产生大量有用信息时，不要把所有材料直接堆入产品或工程的正典文档。
+
+采用最轻量的漏斗：
+
+`Transient → Evidence → Synthesis → Canon`
+
+- **Transient / 临时**：会话、草稿、原始想法；只有未来仍可能有用时才落盘。
+- **Evidence / 证据**：带来源和上下文的调研结论、观察、实验与矛盾点。
+- **Synthesis / 综合**：Option Map、对比、问题框定或精炼后的专题总结。
+- **Canon / 正典**：只保留项目当前认可的真相、意图、范围或契约。
+
+信息必须经过主动筛选后才能向上提升；“已经写进文档”不等于“已经成为需求”。优先链接原始证据，而不是在更高层文档重复粘贴。只有重要且难逆转的选择才额外建立 Decision Record。
+
+详细规则见 [`Evidence-to-Canon Funnel`](../references/evidence-to-canon-funnel.md)，需要保存单次调研时可使用 [`Evidence Note`](../templates/evidence-note.md)。
+
 ## Commitment Boundary · 承诺边界
 
 当工作开始引入明显的新 Scope 时触发，包括：
@@ -237,10 +254,12 @@ MCVS、Vertical Slice、Walking Skeleton 与 Tracer Bullet 的关系见 [`Delive
 - [`Ownership Boundary`](../references/ownership-boundary.md)
 - [`Risk-Adaptive Shaping`](../references/risk-adaptive-shaping.md)
 - [`Delivery Patterns`](../references/delivery-patterns.md)
+- [`Evidence-to-Canon Funnel`](../references/evidence-to-canon-funnel.md)
 
 ### 实践模板
 
 - [`Option Map`](../templates/option-map.md)
+- [`Evidence Note`](../templates/evidence-note.md)
 - [`PRFAQ`](../templates/prfaq.md)
 - [`Decision Record`](../templates/decision-record.md)
 - [`Non-goals`](../templates/non-goals.md)
@@ -256,7 +275,8 @@ MCVS、Vertical Slice、Walking Skeleton 与 Tracer Bullet 的关系见 [`Delive
 2. 没有把一个成功 Prototype 悄悄升级成长期 Production Ownership；
 3. 高风险不确定性获得了与其错误后果相匹配的证据；
 4. 生产变更没有大于实现完整价值真正需要的范围；
-5. 已经考虑明显可以简化或删除的复杂度。
+5. 临时证据没有被悄悄升级成正典或正式承诺；
+6. 已经考虑明显可以简化或删除的复杂度。
 
 ## 中文用户如何使用
 

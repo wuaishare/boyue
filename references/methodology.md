@@ -54,6 +54,18 @@ Let only the smallest coherent, worthwhile change cross into long-term ownership
 
 Use production evidence to decide whether to expand, maintain, simplify, modify, or retire complexity.
 
+## Evidence-to-Canon documentation funnel
+
+Boyue applies the same restraint to documentation. Exploration may produce far more information than the project's canonical documents should carry.
+
+Use a light funnel:
+
+`Transient → Evidence → Synthesis → Canon`
+
+Raw conversation and temporary ideas stay transient unless worth preserving. Source-bound findings become Evidence. Relevant evidence may be compressed into Synthesis. Only selected, stable conclusions enter Canon—the small set of documents that describe the project's current truth, intent, or contract. Material hard-to-reverse choices may also receive a separate Decision Record.
+
+This prevents two common AI-era failures: losing useful research because it never left chat, and polluting canonical requirements by treating every generated finding as a commitment. See [Evidence-to-Canon Funnel](evidence-to-canon-funnel.md).
+
 ## Existing practices Boyue builds on
 
 Boyue does **not** claim to have invented the following practices:

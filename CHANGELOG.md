@@ -2,6 +2,18 @@
 
 All notable changes to Boyue are documented here.
 
+## v0.2.4 — 2026-09-16
+
+### Added
+
+- Added an **Evidence-to-Canon Funnel** for separating transient exploration, preserved evidence, synthesis, and canonical project truth.
+- Added a lightweight `Evidence Note` template for research worth preserving without promoting it into requirements.
+
+### Changed
+
+- Updated the Agent Skill and bilingual documentation so substantial research is filtered before entering canonical product or engineering documents.
+- Skill package version bumped to `0.2.4`.
+
 ## v0.2.3 — 2026-08-27
 
 ### Changed

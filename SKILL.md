@@ -1,11 +1,11 @@
 ---
 name: boyue
-description: "Decision and complexity governance for AI-assisted software development / 面向 AI 编程的软件项目决策与复杂度治理。Use when planning products or features, evaluating scope expansion, making hard-to-reverse decisions, validating uncertain AI capabilities, deciding whether experimental code belongs in production, or reviewing mature systems for simplification and retirement. Do not slow down low-risk reversible edits."
+description: "Decision, evidence, and complexity governance for AI-assisted software development / 面向 AI 编程的软件项目决策、证据与复杂度治理。Use when planning products or features, synthesizing research into canonical project docs, evaluating scope expansion, making hard-to-reverse decisions, validating uncertain AI capabilities, deciding whether experimental code belongs in production, or reviewing mature systems for simplification and retirement. Do not slow down low-risk reversible edits."
 license: MIT
 compatibility: Works in Agent Skills-compatible hosts; no external runtime is required for the core methodology.
 metadata:
   author: wuaishare
-  version: "0.2.3"
+  version: "0.2.4"
 ---
 
 # Boyue · 博约开发法
@@ -56,6 +56,23 @@ For these tasks:
 - avoid unnecessary planning rituals;
 - prefer the smallest safe change;
 - verify behavior and finish.
+
+## Keep evidence separate from Canon
+
+When research or long-running discussion produces useful material, do not dump all of it into the project's canonical product or engineering document.
+
+Use the lightest useful **Evidence-to-Canon Funnel**:
+
+`Transient → Evidence → Synthesis → Canon`
+
+- **Transient** — chat, scratch notes, raw ideas; persist only when they may matter later.
+- **Evidence** — source-bound findings, observations, experiments, contradictions.
+- **Synthesis** — compact interpretation such as an Option Map or focused research summary.
+- **Canon** — the small set of documents that state the project's current truth, intent, or contract.
+
+Promotion must be deliberate. Writing something down does not make it a requirement or commitment. Prefer links over copying raw research upward. Create a separate Decision Record only when a material decision needs durable rationale.
+
+See [Evidence-to-Canon Funnel](references/evidence-to-canon-funnel.md) and [Evidence Note](templates/evidence-note.md).
 
 ## Commitment Boundary
 
@@ -190,7 +207,9 @@ Use evidence and project-specific thresholds instead.
 - [Ownership Boundary](references/ownership-boundary.md)
 - [Risk-Adaptive Shaping](references/risk-adaptive-shaping.md)
 - [Delivery Patterns](references/delivery-patterns.md)
+- [Evidence-to-Canon Funnel](references/evidence-to-canon-funnel.md)
 - [Option Map](templates/option-map.md)
+- [Evidence Note](templates/evidence-note.md)
 - [PRFAQ](templates/prfaq.md)
 - [Decision Record](templates/decision-record.md)
 - [Non-goals](templates/non-goals.md)
@@ -206,4 +225,5 @@ Before declaring work complete, confirm:
 2. no prototype was silently promoted into long-term production ownership;
 3. high-risk uncertainty received evidence proportional to its consequence;
 4. the production change is no larger than required for coherent value;
-5. obvious simplifications or removals were considered.
+5. provisional evidence was not silently promoted into Canon or commitment;
+6. obvious simplifications or removals were considered.

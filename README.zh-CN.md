@@ -134,6 +134,7 @@ AI 给出的新想法、竞品已有的功能、一个跑通的 Demo、甚至已
 - 当任务突然扩大 Scope 时触发 Commitment Boundary；
 - 当 Public API、核心数据、权限、长期配置、服务和依赖进入生产时触发 Ownership Boundary；
 - 面对不确定的 AI 能力时优先做 Disposable Spike / PoC，而不是直接造生产架构；
+- 用 Evidence-to-Canon 漏斗保存有价值的调研，同时避免把临时材料塞进正典文档；
 - 避免把成功的 Prototype 自动升级成长期 Production Ownership；
 - 用最小完整价值切片和 Vertical Slice 交付；
 - 在成熟项目中主动寻找可以简化或退役的复杂度。
@@ -207,10 +208,12 @@ Agent 又提出：
 - [Ownership Boundary](references/ownership-boundary.md)
 - [Risk-Adaptive Shaping](references/risk-adaptive-shaping.md)
 - [Delivery Patterns](references/delivery-patterns.md)
+- [Evidence-to-Canon Funnel](references/evidence-to-canon-funnel.md)
 
 ### 模板
 
 - [Option Map](templates/option-map.md)
+- [Evidence Note](templates/evidence-note.md)
 - [轻量 PRFAQ](templates/prfaq.md)
 - [Commitment Decision Record](templates/decision-record.md)
 - [Non-goals](templates/non-goals.md)

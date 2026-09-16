@@ -106,6 +106,7 @@ The installable [SKILL.md](SKILL.md) teaches an AI coding agent to:
 - detect when new scope should cross a Commitment Boundary;
 - detect when durable complexity should cross an Ownership Boundary;
 - use disposable Spike / PoC work to validate uncertain AI capabilities;
+- keep provisional research in an Evidence-to-Canon funnel instead of bloating canonical docs;
 - avoid silently promoting prototypes into production architecture;
 - prefer the smallest coherent vertical slice for delivery;
 - periodically consider simplification and retirement.
@@ -153,10 +154,12 @@ See [AI Capability Spike](examples/ai-spike.md).
 - [Ownership Boundary](references/ownership-boundary.md)
 - [Risk-Adaptive Shaping](references/risk-adaptive-shaping.md)
 - [Delivery Patterns](references/delivery-patterns.md)
+- [Evidence-to-Canon Funnel](references/evidence-to-canon-funnel.md)
 
 ### Templates
 
 - [Option Map](templates/option-map.md)
+- [Evidence Note](templates/evidence-note.md)
 - [Lightweight PRFAQ](templates/prfaq.md)
 - [Commitment Decision Record](templates/decision-record.md)
 - [Non-goals](templates/non-goals.md)
